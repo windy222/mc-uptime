@@ -3,33 +3,40 @@ owner: windy222 # Your GitHub organization or username, where this repository li
 repo: mc-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Online
+    url: https://online.yunshanmeicai.com/
+  - name: SSO
+    url: https://sso.yunshanmeicai.com/#/
+  - name: dpvs-apisix-443-ct
+    url: 106.120.180.248
+    port: 443
     check: "tcp-ping"
-    ipv6: true
+  - name: dpvs-apisix-443-cu
+    url: 123.125.250.100
+    port: 443
+    check: "tcp-ping"
+  - name: dpvs-apisix-443-cm
+    url: 223.71.182.8
+    port: 443
+    check: "tcp-ping"
+  - name: dpvs-apisix-443-bgp
+    url: 211.151.2.136
+    port: 443
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.woroot.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://www.meicai.cn/img/logo.9210b6eb.jpg
+  name: Meicai Uptime
+  introTitle: "Meicai Urls Status"
+  introMessage: Meicai Urls Status
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Meicai Uptime
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
