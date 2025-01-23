@@ -5,21 +5,25 @@ repo: mc-uptime # The name of this repository
 sites:
   - name: Online
     url: https://online.yunshanmeicai.com/
-  - name: SSO
-    url: https://sso.yunshanmeicai.com/#/
-  - name: dpvs-apisix-443-ct
+  - name: 统一登陆
+    url: https://sso.yunshanmeicai.com/
+  - name: 通行证
+    url: https://passport.yunshanmeicai.com/
+  - name: 客服
+    url: https://kf.yunshanmeicai.com/
+  - name: 电信
     url: 106.120.180.248
     port: 443
     check: "tcp-ping"
-  - name: dpvs-apisix-443-cu
+  - name: 联通
     url: 123.125.250.100
     port: 443
     check: "tcp-ping"
-  - name: dpvs-apisix-443-cm
+  - name: 移动
     url: 223.71.182.8
     port: 443
     check: "tcp-ping"
-  - name: dpvs-apisix-443-bgp
+  - name: BGP
     url: 211.151.2.136
     port: 443
     check: "tcp-ping"
@@ -30,13 +34,13 @@ status-website:
   cname: status.woroot.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.meicai.cn/img/logo.9210b6eb.jpg
-  name: Meicai Uptime
-  introTitle: "Meicai Urls Status"
-  introMessage: Meicai Urls Status
+  name: 美菜网站运行状态
+  introTitle: "美菜网站运行状态"
+  introMessage: 美菜网站运行状态
   navbar:
     - title: Status
       href: /
-    - title: Meicai Uptime
+    - title: 美菜网站运行状态
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
