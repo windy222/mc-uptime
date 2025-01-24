@@ -5,21 +5,21 @@ repo: mc-uptime # The name of this repository
 sites:
   - name: Online
     url: https://online.yunshanmeicai.com/
-  - name: 统一登陆
+  - name: SSO
     url: https://sso.yunshanmeicai.com/
-  - name: 通行证
+  - name: Passport
     url: https://passport.yunshanmeicai.com/
-  - name: 客服
+  - name: Kefu
     url: https://kf.yunshanmeicai.com/
-  - name: 电信
+  - name: China Telecom
     url: 106.120.180.248
     port: 443
     check: "tcp-ping"
-  - name: 联通
+  - name: China Unicom
     url: 123.125.250.100
     port: 443
     check: "tcp-ping"
-  - name: 移动
+  - name: China Mobile
     url: 223.71.182.8
     port: 443
     check: "tcp-ping"
