@@ -34,9 +34,9 @@ status-website:
   cname: status.woroot.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.meicai.cn/img/logo.9210b6eb.jpg
-  name: 美菜网站运行状态
-  introTitle: "美菜网站运行状态"
-  introMessage: 美菜网站运行状态
+  name: Mc运行状态
+  introTitle: "Mc运行状态"
+  introMessage: 
   navbar:
     - title: Status
       href: /
