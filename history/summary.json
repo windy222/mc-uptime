@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.yunshanmeicai.com.ico",
     "slug": "online",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1200,
     "timeDay": 1324,
     "timeWeek": 1200,
     "timeMonth": 1200,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-01-27": 7,
       "2025-01-24": 18
     }
   },
@@ -61,9 +60,9 @@
     "url": "https://kf.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kf.yunshanmeicai.com.ico",
     "slug": "kefu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +71,9 @@
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   },
   {
     "name": "China Telecom",
