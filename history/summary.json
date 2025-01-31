@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.yunshanmeicai.com.ico",
     "slug": "online",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 1448,
     "timeDay": 1274,
-    "timeWeek": 1505,
+    "timeWeek": 1596,
     "timeMonth": 1448,
     "timeYear": 1448,
     "dailyMinutesDown": {
@@ -24,18 +24,20 @@
     "url": "https://sso.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sso.yunshanmeicai.com.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1414,
     "timeDay": 1422,
-    "timeWeek": 1416,
+    "timeWeek": 1418,
     "timeMonth": 1414,
     "timeYear": 1414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   },
   {
     "name": "Passport",
@@ -50,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 889,
     "timeDay": 1020,
-    "timeWeek": 889,
+    "timeWeek": 860,
     "timeMonth": 889,
     "timeYear": 889,
     "dailyMinutesDown": {}
@@ -68,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 832,
     "timeDay": 1248,
-    "timeWeek": 832,
+    "timeWeek": 840,
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {}
@@ -86,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 247,
-    "timeWeek": 220,
+    "timeWeek": 225,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 203,
-    "timeWeek": 228,
+    "timeWeek": 236,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {}
@@ -122,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 217,
-    "timeWeek": 224,
+    "timeWeek": 229,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {}
@@ -140,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 251,
-    "timeWeek": 227,
+    "timeWeek": 233,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {}
