@@ -63,19 +63,19 @@
     "url": "https://kf.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kf.yunshanmeicai.com.ico",
     "slug": "kefu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 870,
-    "timeDay": 791,
-    "timeWeek": 908,
-    "timeMonth": 870,
-    "timeYear": 870,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 874,
+    "timeDay": 883,
+    "timeWeek": 916,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2025-02-09": 0
+      "2025-02-09": 12
     }
   },
   {
