@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1536,
-    "timeDay": 945,
-    "timeWeek": 1087,
-    "timeMonth": 1638,
-    "timeYear": 1536,
+    "time": 1529,
+    "timeDay": 1197,
+    "timeWeek": 1113,
+    "timeMonth": 1641,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2025-01-24": 18
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.yunshanmeicai.com.ico",
     "slug": "sso",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1471,
-    "timeDay": 1485,
-    "timeWeek": 1476,
-    "timeMonth": 1487,
-    "timeYear": 1471,
-    "dailyMinutesDown": {
-      "2025-02-27": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1472,
+    "timeDay": 1611,
+    "timeWeek": 1480,
+    "timeMonth": 1490,
+    "timeYear": 1472,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Passport",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
-    "time": 898,
-    "timeDay": 737,
-    "timeWeek": 877,
-    "timeMonth": 895,
-    "timeYear": 898,
+    "time": 903,
+    "timeDay": 1093,
+    "timeWeek": 886,
+    "timeMonth": 905,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2025-02-01": 57,
       "2025-01-31": 2
@@ -71,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 749,
-    "timeWeek": 825,
-    "timeMonth": 879,
-    "timeYear": 861,
+    "time": 860,
+    "timeDay": 837,
+    "timeWeek": 841,
+    "timeMonth": 881,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 196,
-    "timeWeek": 231,
-    "timeMonth": 230,
-    "timeYear": 228,
+    "time": 229,
+    "timeDay": 261,
+    "timeWeek": 238,
+    "timeMonth": 232,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -108,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 204,
-    "timeWeek": 246,
+    "timeDay": 254,
+    "timeWeek": 244,
     "timeMonth": 238,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 216,
+    "time": 220,
+    "timeDay": 234,
     "timeWeek": 226,
     "timeMonth": 218,
-    "timeYear": 219,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -143,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 210,
-    "timeWeek": 239,
-    "timeMonth": 237,
-    "timeYear": 233,
+    "time": 234,
+    "timeDay": 266,
+    "timeWeek": 244,
+    "timeMonth": 238,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   }
 ]
