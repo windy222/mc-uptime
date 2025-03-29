@@ -13,7 +13,7 @@
     "time": 1378,
     "timeDay": 1135,
     "timeWeek": 1135,
-    "timeMonth": 1136,
+    "timeMonth": 1137,
     "timeYear": 1378,
     "dailyMinutesDown": {
       "2025-01-24": 18
@@ -33,7 +33,7 @@
     "time": 1444,
     "timeDay": 1280,
     "timeWeek": 1352,
-    "timeMonth": 1399,
+    "timeMonth": 1406,
     "timeYear": 1444,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.yunshanmeicai.com.ico",
     "slug": "passport",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 890,
     "timeDay": 705,
     "timeWeek": 828,
     "timeMonth": 874,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2025-03-28": 14,
       "2025-02-01": 57,
       "2025-01-31": 2
     }
@@ -65,19 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kf.yunshanmeicai.com.ico",
     "slug": "kefu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 868,
     "timeDay": 747,
     "timeWeek": 833,
-    "timeMonth": 862,
+    "timeMonth": 878,
     "timeYear": 868,
-    "dailyMinutesDown": {
-      "2025-03-28": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "China Telecom",
@@ -93,7 +90,7 @@
     "time": 229,
     "timeDay": 247,
     "timeWeek": 225,
-    "timeMonth": 228,
+    "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -111,7 +108,7 @@
     "time": 234,
     "timeDay": 241,
     "timeWeek": 233,
-    "timeMonth": 230,
+    "timeMonth": 231,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -147,7 +144,7 @@
     "time": 234,
     "timeDay": 248,
     "timeWeek": 230,
-    "timeMonth": 234,
+    "timeMonth": 235,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
