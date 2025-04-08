@@ -11,19 +11,19 @@ sites:
     url: https://passport.yunshanmeicai.com/
   - name: Kefu
     url: https://kf.yunshanmeicai.com/
-  - name: China Telecom
+  - name: HaoYun-CT-SSL
     url: 106.39.250.160
     port: 443
     check: "tcp-ping"
-  - name: China Unicom
+  - name: HaoYun-CU-SSL
     url: 114.255.145.160
     port: 443
     check: "tcp-ping"
-  - name: China Mobile
+  - name: HaoYun-CM-SSL
     url: 223.72.140.32
     port: 443
     check: "tcp-ping"
-  - name: BGP
+  - name: HaoYun-BGP-SSL
     url: 45.254.9.48
     port: 443
     check: "tcp-ping"
