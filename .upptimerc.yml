@@ -1,5 +1,5 @@
 # Change these first
-owner: windy222 # Your GitHub organization or username, where this repository lives
+owner: lyw # Your GitHub organization or username, where this repository lives
 repo: mc-uptime # The name of this repository
 
 sites:
@@ -12,19 +12,19 @@ sites:
   - name: Kefu
     url: https://kf.yunshanmeicai.com/
   - name: China Telecom
-    url: 106.120.180.248
+    url: 106.39.250.160
     port: 443
     check: "tcp-ping"
   - name: China Unicom
-    url: 123.125.250.100
+    url: 114.255.145.160
     port: 443
     check: "tcp-ping"
   - name: China Mobile
-    url: 223.71.182.8
+    url: 223.72.140.32
     port: 443
     check: "tcp-ping"
   - name: BGP
-    url: 211.151.2.136
+    url: 45.254.9.48
     port: 443
     check: "tcp-ping"
 
