@@ -6,9 +6,9 @@
     "slug": "online",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 1420,
     "timeDay": 4986,
@@ -16,7 +16,7 @@
     "timeMonth": 1516,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2025-04-29": 42,
+      "2025-04-29": 31,
       "2025-01-24": 18
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://sso.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sso.yunshanmeicai.com.ico",
     "slug": "sso",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1445,
-    "timeDay": 1423,
-    "timeWeek": 1496,
-    "timeMonth": 1446,
-    "timeYear": 1445,
+    "time": 1446,
+    "timeDay": 1490,
+    "timeWeek": 1506,
+    "timeMonth": 1449,
+    "timeYear": 1446,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 4
     }
   },
   {
