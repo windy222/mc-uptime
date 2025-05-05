@@ -4,18 +4,19 @@
     "url": "https://online.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/online.yunshanmeicai.com.ico",
     "slug": "online",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 1413,
     "timeDay": 1530,
     "timeWeek": 2312,
     "timeMonth": 1522,
     "timeYear": 1413,
     "dailyMinutesDown": {
+      "2025-05-05": 2,
       "2025-04-29": 31,
       "2025-01-24": 18
     }
@@ -25,11 +26,11 @@
     "url": "https://sso.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sso.yunshanmeicai.com.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1454,
     "timeDay": 1728,
@@ -37,7 +38,7 @@
     "timeMonth": 1472,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-05-05": 5
+      "2025-05-05": 1
     }
   },
   {
@@ -45,11 +46,11 @@
     "url": "https://passport.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/passport.yunshanmeicai.com.ico",
     "slug": "passport",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 906,
     "timeDay": 1191,
@@ -57,7 +58,7 @@
     "timeMonth": 929,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2025-05-05": 4,
+      "2025-05-05": 1,
       "2025-02-01": 57,
       "2025-01-31": 2
     }
