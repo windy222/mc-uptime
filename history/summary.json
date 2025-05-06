@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.yunshanmeicai.com.ico",
     "slug": "online",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 1419,
     "timeDay": 1770,
     "timeWeek": 2240,
     "timeMonth": 1547,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2025-05-06": 0,
-      "2025-05-05": 10,
       "2025-04-29": 31,
       "2025-01-24": 18
     }
@@ -28,20 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.yunshanmeicai.com.ico",
     "slug": "sso",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1463,
     "timeDay": 1852,
     "timeWeek": 1616,
     "timeMonth": 1502,
     "timeYear": 1463,
-    "dailyMinutesDown": {
-      "2025-05-06": 0,
-      "2025-05-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Passport",
@@ -49,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.yunshanmeicai.com.ico",
     "slug": "passport",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 915,
     "timeDay": 1300,
     "timeWeek": 1070,
     "timeMonth": 951,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2025-05-06": 0,
-      "2025-05-05": 9,
       "2025-02-01": 57,
       "2025-01-31": 2
     }
@@ -72,20 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kf.yunshanmeicai.com.ico",
     "slug": "kefu",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 896,
     "timeDay": 1206,
     "timeWeek": 964,
     "timeMonth": 934,
     "timeYear": 896,
-    "dailyMinutesDown": {
-      "2025-05-06": 0,
-      "2025-05-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HaoYun-CT-SSL",
