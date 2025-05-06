@@ -25,10 +25,10 @@
     "url": "https://sso.yunshanmeicai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sso.yunshanmeicai.com.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1463,
@@ -36,7 +36,9 @@
     "timeWeek": 1616,
     "timeMonth": 1502,
     "timeYear": 1463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-06": 1
+    }
   },
   {
     "name": "Passport",
