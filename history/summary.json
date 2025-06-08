@@ -84,19 +84,19 @@
     "url": "106.39.250.160",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hao-yun-ct-ssl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 215,
-    "timeWeek": 232,
-    "timeMonth": 230,
-    "timeYear": 234,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 232,
+    "timeDay": 187,
+    "timeWeek": 223,
+    "timeMonth": 227,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-06-08": 0
+      "2025-06-08": 17
     }
   },
   {
