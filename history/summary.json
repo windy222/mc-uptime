@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.yunshanmeicai.com.ico",
     "slug": "online",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 1317,
     "timeDay": 988,
     "timeWeek": 1127,
     "timeMonth": 1214,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2025-08-19": 15,
+      "2025-08-19": 33,
       "2025-04-29": 31,
       "2025-01-24": 18
     }
@@ -28,9 +28,9 @@
     "slug": "sso",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 1477,
     "timeDay": 1760,
@@ -38,7 +38,7 @@
     "timeMonth": 1448,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2025-08-19": 34,
+      "2025-08-19": 52,
       "2025-05-06": 20
     }
   },
@@ -48,18 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/passport.yunshanmeicai.com.ico",
     "slug": "passport",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
     "time": 907,
     "timeDay": 813,
     "timeWeek": 858,
     "timeMonth": 909,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-08-19": 15,
+      "2025-08-19": 33,
       "2025-02-01": 57,
       "2025-01-31": 2
     }
@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kf.yunshanmeicai.com.ico",
     "slug": "kefu",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 885,
     "timeDay": 808,
     "timeWeek": 847,
     "timeMonth": 877,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2025-08-19": 15
+      "2025-08-19": 33
     }
   },
   {
@@ -109,19 +109,19 @@
     "url": "114.255.145.160",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hao-yun-cu-ssl",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 233,
     "timeDay": 235,
     "timeWeek": 233,
     "timeMonth": 234,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-08-19": 21
+      "2025-08-19": 39
     }
   },
   {
@@ -129,19 +129,19 @@
     "url": "223.72.140.32",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hao-yun-cm-ssl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 200,
+    "timeDay": 201,
     "timeWeek": 198,
     "timeMonth": 205,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-08-19": 0
+      "2025-08-19": 18
     }
   },
   {
